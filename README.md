@@ -24,6 +24,8 @@ Bash
 cmake -B build -D CMAKE_BUILD_TYPE=Release
 
 ### 2. Compile the executables
-cmake --build build\n
-cd build\n
+cmake --build build
+
+cd build
+
 ./game
