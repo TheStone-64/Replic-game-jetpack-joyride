@@ -26,6 +26,7 @@ cmake -B build -D CMAKE_BUILD_TYPE=Release
 ### 2. Compile the executables
 cmake --build build
 
+### 3. Execution
 cd build
 
 ./game
