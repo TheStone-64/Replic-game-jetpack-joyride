@@ -218,7 +218,7 @@ namespace Debug {
     inline std::set<Level>  active_levels  = {Level::INFO, Level::DBG, Level::ERR, Level::WARN};
     const bool all_modules = false;
     const bool all_levels = true;
-
+    const bool active = false;
 
     // #########################################################################################
     inline void print_args() { std::cout << std::endl; }
@@ -231,6 +231,7 @@ namespace Debug {
 
     template <typename... Args>
     void log(Module m, Level l, Args... args) {
+        if(!active) return;
         if (active_modules.count(m) || all_modules) {
             if(active_levels.count(l )  || all_levels)
                 std::cout << "[" << ModuleNames[m] << "] [" << LevelNames[l] << "] ";
