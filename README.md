@@ -31,6 +31,15 @@ cd build
 
 ./game
 
+## 🎨 Credits & Resources
+
+### Assets
+All in-game images and sound effects were sourced from a public GitHub repository, with the exception of the main menu background, which was generated using Google Gemini.
+[Link to the repository assets](https://github.com/rsharifnasab/sbu_JetPackJoyRide/tree/master/assets/pic)
+
+### Fonts
+Both fonts used in this project are public domain and freely available for commercial use.
+[1001 Fonts - Video Game Fonts](https://www.1001fonts.com/video-game-fonts.html)
 
 # Gameplay
 
