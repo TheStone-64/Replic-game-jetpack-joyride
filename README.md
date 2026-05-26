@@ -30,3 +30,11 @@ cmake --build build
 cd build
 
 ./game
+
+
+# Gameplay
+
+<img width="1291" height="490" alt="menu" src="https://github.com/user-attachments/assets/4e11eb05-f003-48fa-8773-4f0c2df92731" />
+<img width="1291" height="490" alt="gameplay1" src="https://github.com/user-attachments/assets/cf19d538-7972-4be3-a91d-7c196173f744" />
+<img width="1291" height="490" alt="gameplay 2 1" src="https://github.com/user-attachments/assets/fa3b9a4e-b119-41b1-bdd0-a69f97ff4d15" />
+<img width="1291" height="490" alt="gameplay2 2" src="https://github.com/user-attachments/assets/f911169a-1d62-4065-ad1c-55a15d2949b5" />
