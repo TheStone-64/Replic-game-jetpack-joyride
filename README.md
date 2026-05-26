@@ -42,8 +42,9 @@ Both fonts used in this project are public domain and freely available for comme
 [1001 Fonts - Video Game Fonts](https://www.1001fonts.com/video-game-fonts.html)
 
 # Gameplay
+<img width="1280" height="490" alt="menu" src="https://github.com/user-attachments/assets/01a69e84-ca02-409e-acd6-a32020160f8b" />
+<img width="1283" height="490" alt="gameplay1" src="https://github.com/user-attachments/assets/f8a99b3a-f9c5-4f72-a70f-756fb0338488" />
+<img width="1282" height="490" alt="gameplay 2 1" src="https://github.com/user-attachments/assets/71d624a7-0191-4f1c-b258-394da07053d4" />
+<img width="1284" height="490" alt="gameplay2 2" src="https://github.com/user-attachments/assets/24c71d2e-cafd-43af-9bd7-f5735d39f57e" />
 
-<img width="1291" height="490" alt="menu" src="https://github.com/user-attachments/assets/4e11eb05-f003-48fa-8773-4f0c2df92731" />
-<img width="1291" height="490" alt="gameplay1" src="https://github.com/user-attachments/assets/cf19d538-7972-4be3-a91d-7c196173f744" />
-<img width="1291" height="490" alt="gameplay 2 1" src="https://github.com/user-attachments/assets/fa3b9a4e-b119-41b1-bdd0-a69f97ff4d15" />
-<img width="1291" height="490" alt="gameplay2 2" src="https://github.com/user-attachments/assets/f911169a-1d62-4065-ad1c-55a15d2949b5" />
+
